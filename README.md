@@ -1,7 +1,7 @@
 # node-lite-server
 The basic HTML and CSS application using a lite server.
 
-## Quick Setup
+## Quick Repository Setup
 You can start by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 
 ### Create a new repository on the command line
@@ -17,3 +17,11 @@ You can start by creating a new file or uploading an existing file. We recommend
 - git remote add origin https://github.com/thegeekplanets/node-lite-server.git
 - git branch -M master
 - git push -u origin master
+
+## Quick Setup
+
+### Create Node Application 
+- npm init --yes
+
+### Create tsconfig file
+- npx tsc --init
